@@ -5,4 +5,4 @@ Supported browsers: <br />
 -Chrome <br />
 -Firefox <br />
 -Opera GX <br />
-I am not to be held responsable by any damage caused by the missuse of this application as i'm only sharing this for research purposes.
+I am not to be held responsible by any damage caused by the missuse of this application as i'm only sharing this for research purposes.
