@@ -1,6 +1,9 @@
 <p align="center">
   <b>COMPLETELY UNDETECTED Crypto drainer + Stealer + Keylogger</b> <br>
   <i>FUD-Stealer written on C#, logs will be sent to your Discord channel using a webhook.</i>
+  ![image]("C:\Users\dbuon\OneDrive\Immagini\antiscan.jfif")
+
+
 </p>
 
 
