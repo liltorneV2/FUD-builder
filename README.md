@@ -7,7 +7,9 @@
   
 </p>
 
-![image](antiscan.png)
+<p align="center">
+  <img src="antiscan.png" />
+</p>
 
 # :construction: Disclaimer
 
