@@ -1,4 +1,5 @@
 <p align="center">
+  <b>PLEASE DON'T UPLOAD TO VIRUS TOTAL! IF YOU WANT TO SCAN THE STUB US ANTISCAN.ME</b>
   <b>COMPLETELY UNDETECTED Crypto drainer + Stealer + Keylogger</b> <br>
   <i>FUD-Stealer written on C#, logs will be sent to your Discord channel using a webhook.</i><br>
 
